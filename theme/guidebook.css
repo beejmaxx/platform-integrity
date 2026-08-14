@@ -22,6 +22,78 @@
 
 .content main { text-wrap: pretty; }
 
+.book-hero {
+  margin: 0 0 2.75rem;
+  padding: 3.4rem 3rem 3rem;
+  border: 1px solid var(--table-border-color);
+  border-top: 0.4rem solid #bb4d00;
+  background:
+    linear-gradient(135deg, rgba(187, 77, 0, 0.09), transparent 42%),
+    var(--quote-bg);
+}
+
+.book-hero h1 {
+  margin: 0.1em 0 0;
+  border: 0;
+  font-size: clamp(3rem, 8vw, 5.8rem);
+  line-height: 0.95;
+  letter-spacing: -0.055em;
+}
+
+.book-kicker {
+  margin: 0;
+  color: #bb4d00;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+
+.book-deck {
+  max-width: 30em;
+  margin: 1.25rem 0 2.5rem;
+  font-size: 1.3rem;
+  line-height: 1.35;
+}
+
+.book-thesis {
+  max-width: 37em;
+  margin: 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--table-border-color);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.12rem;
+  font-style: italic;
+}
+
+.book-byline {
+  margin: 1.5rem 0 0;
+  color: var(--icons);
+  font-size: 0.85rem;
+}
+
+.front-matter-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 2.5rem 0;
+}
+
+.front-matter-grid > div {
+  padding: 0.25rem 1.25rem 0.35rem;
+  border-left: 3px solid #bb4d00;
+}
+
+.front-matter-grid h3 { margin-top: 0; }
+
+.front-cta {
+  margin: 3rem 0 1rem;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid var(--table-border-color);
+  background: var(--quote-bg);
+}
+
+.front-cta h3 { margin-top: 0; }
+
 @media only screen and (min-width: 801px) {
   .nav-wide-wrapper,
   #mdbook-sidebar-toggle-anchor:checked ~ .page-wrapper .nav-wide-wrapper { display: block; }
@@ -38,4 +110,6 @@
 
 @media (max-width: 700px) {
   .chapter-meta span { border-inline-end: 0 !important; }
+  .book-hero { padding: 2.25rem 1.5rem 2rem; }
+  .front-matter-grid { grid-template-columns: 1fr; }
 }

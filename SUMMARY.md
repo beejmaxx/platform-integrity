@@ -1,6 +1,6 @@
 # Summary
 
-[Orientation](README.md)
+[Start here](README.md)
 [Living synthesis](BOOK.md)
 [Adversarial Platform Canvas](concepts/adversarial-platform-canvas.md)
 
