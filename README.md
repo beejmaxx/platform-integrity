@@ -46,4 +46,4 @@ The mdBook navigation exposes the synthesis, framework, chapter briefs, concepts
 
 ## Current phase
 
-Parts I and II are now in **first-draft review**: six sourced chapters establish the definitions, harm model, economics, automation policy, authority, and error-cost framework. Parts III–VI remain decision briefs. Research notes are published beside the manuscript so claims, limitations, and disagreements remain inspectable.
+Parts I–III are now in **first-draft review**: nine sourced chapters establish the definitions, harm model, economics, automation policy, authority, error-cost framework, evidence model, automation surfaces, and limits of attribution. Parts IV–VI remain decision briefs. Research notes are published beside the manuscript so claims, limitations, and disagreements remain inspectable.
