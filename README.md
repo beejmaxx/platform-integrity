@@ -46,4 +46,4 @@ The mdBook navigation exposes the synthesis, framework, chapter briefs, concepts
 
 ## Current phase
 
-The repository is intentionally at **architecture and research-design** stage. Chapter files are decision briefs, not generated textbook prose. The next milestone is a sourced research corpus for Parts I and II, followed by a reviewed synthesis in `BOOK.md`.
+Parts I and II are now in **first-draft review**: six sourced chapters establish the definitions, harm model, economics, automation policy, authority, and error-cost framework. Parts III–VI remain decision briefs. Research notes are published beside the manuscript so claims, limitations, and disagreements remain inspectable.

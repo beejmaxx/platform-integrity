@@ -61,4 +61,24 @@
 
 - [Research guide](research/README.md)
 - [Source indexes](sources/README.md)
+  - [Books](sources/books.md)
+  - [Papers and datasets](sources/papers.md)
+  - [Law, regulation, and policy](sources/law-policy.md)
+  - [Patents and disclosures](sources/patents.md)
+  - [Talks and practitioner material](sources/talks-articles.md)
 - [Research agenda](ideas/research-agenda.md)
+
+# Research library
+
+- [Trust & Safety: Fighting the Forever War](research/social-platforms/2025-stamos-grossman-pfefferkorn-forever-war.md)
+- [IETF Robots Exclusion Protocol](research/bot-detection/2022-ietf-robots-exclusion-protocol.md)
+- [GitHub Acceptable Use Policies](research/social-platforms/2026-github-acceptable-use.md)
+- [Steam Subscriber Agreement](research/gaming/2026-valve-steam-subscriber-agreement.md)
+- [FTC BOTS Act enforcement](research/marketplaces/2021-ftc-bots-act-enforcement.md)
+- [Security economics](research/fraud/2001-anderson-information-security-economics.md)
+- [Fraudulent-account markets](research/fraud/2013-thomas-fraudulent-account-market.md)
+- [The abuse-sharing economy](research/fraud/2016-thomas-abuse-sharing-economy.md)
+- [EU Digital Services Act](research/legal/2022-eu-digital-services-act.md)
+- [GDPR Article 22](research/legal/2016-eu-gdpr-article-22.md)
+- [NIST AI Risk Management Framework](research/ml/2023-nist-ai-risk-management-framework.md)
+- [After Bots](research/bot-detection/2026-gosschalk-after-bots.md)

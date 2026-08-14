@@ -105,4 +105,13 @@ Apply one canvas to gaming, dating, commerce, and financial markets so the legit
 
 ## Evidence ledger
 
-No major claim should become chapter prose until it has at least one linked research note, known limitations, affected ecosystems, and a falsification question. Add reviewed claims here as the corpus grows.
+No major claim should become chapter prose until it has at least one linked research note, known limitations, affected ecosystems, and a falsification question.
+
+| Working claim | Evidence state | Manuscript location | Important limitation |
+|---|---|---|---|
+| “Bot” is a mechanism label, not a sufficient governance category | Supported by contrasting standards, contracts, and policies | Chapters 1 and 4 | Some ecosystems deliberately adopt broad mechanism bans |
+| Harm should be measured separately from violations and enforcement volume | Supported by T&S practice and economic reasoning | Chapter 2 | Causal harm measurement remains ecosystem-specific |
+| Abuse defense changes a production economy, not merely a success rate | Supported by security economics and measured account markets | Chapter 3 | Historical underground-market measurements are not current prices |
+| Signals useful for risk can be unsafe for direct enforcement | Supported by cross-service abuse measurement | Chapters 3 and 6 | One Google study does not quantify every modern signal |
+| Higher-impact actions require stronger evidence and recourse | Normative synthesis supported by NIST risk guidance and EU safeguards | Chapters 5 and 6 | Legal requirements vary by jurisdiction and workflow |
+| Agent governance needs delegated authority plus behavioral controls | Plausible framework; practitioner support only so far | Chapters 1 and 4 | Requires stronger standards and deployment evidence |
