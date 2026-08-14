@@ -1,7 +1,7 @@
 [book]
-title = "Adversarial Platforms"
+title = "Platform Integrity"
 authors = ["Bijan"]
-description = "A decision framework for governing adversarial automation on digital platforms."
+description = "Engineering detection, decisions, and enforcement against bots, fraud, and abuse."
 language = "en"
 src = "."
 

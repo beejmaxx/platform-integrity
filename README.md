@@ -1,6 +1,6 @@
-# Adversarial Platforms
+# Platform Integrity
 
-*Designing Systems to Detect, Govern, and Respond to Bots, Automation, Fraud, and Abuse*
+*Engineering Detection, Decisions, and Enforcement Against Bots, Fraud, and Abuse*
 
 This repository is a living research and writing system for a book about governing adversarial automation on digital platforms. Bot detection is one input to that system, not the organizing principle.
 
